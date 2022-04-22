@@ -1,0 +1,70 @@
+Hello Manthan,
+
+1 - speak() - part 1
+
+2- Takecommand() -part 2
+
+3- TaslExecution() -part 3
+
+-- You Need To Know the Basi Of Jarvis:
+1- How To Change Voices DONE
+
+2- How To Change Speech Rate DONE
+
+3- Jarvis Stuck at Listening..
+
+--Now We Are Going To Create This Fetures In Jarvis:
+
+1- Hotward Detection
+
+2- Youtube Search? DONE 
+
+3- Goggle search DONE
+
+4- Open Any Website DONE
+
+5- Open Any Web adress DONE
+
+6- Play Any Music DONE
+
+7- Wekipedia DONE
+
+8- Whatsapp Messanger DONE
+
+9- Screenshort DONE
+
+10- ScreenRecorder
+
+11- Temprature
+
+12- Open Application DONE
+
+13- Close Application DONE
+
+14- Youtube Automation DONE
+
+15- Chrome Automation DONE
+
+16- Dictionary
+
+17- Translator
+
+18- cpu induction rate
+
+19- Alarm
+
+20- Calculator
+
+21- Location
+
+22- My Word Representation DONE
+
+23- joke DONE
+
+24- Test of handwriting
+
+25- Youtube video downloader
+
+26- 
+
+
